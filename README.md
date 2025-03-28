@@ -5,7 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is a big part of computer science that focuses on design, development, testing and maintainance of software applications.
+Software engineering is defined as a process of designing, developing, testing and maintaining softwares. It forms a big part of computer science and is used by software developers use it to solve real world problems.
+
+is a big part of computer science that focuses on design, development, testing and maintainance of software applications.
 
 Quality and Reliability:
 By applying engineering principles, software engineers can build software with high quality standards, ensuring consistent functionality and minimizing errors, which is critical for user trust and business continuity. 
